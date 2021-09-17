@@ -2,6 +2,12 @@
 
 ## Manual de uso ##
 
+### Compilacion
+
+```shell
+make
+```
+
 ### Instalacion ###
 
 ```shell

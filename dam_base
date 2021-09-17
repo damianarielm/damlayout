@@ -1,6 +1,3 @@
-default partial alphanumeric_keys modifier_keys
-
-xkb_symbols "basic" {
     include "es"
     // include "dam_one_hand"
     // include "dam_colemak"
@@ -39,4 +36,3 @@ xkb_symbols "basic" {
     key <AB07> { [ _, _, percent, _ ] };
     key <AB09> { [ _, _, parenleft, _ ] };
     key <AB10> { [ _, _, parenright, _ ] };
-};
