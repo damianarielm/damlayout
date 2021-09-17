@@ -23,7 +23,7 @@ xkb_symbols "basic" {
 
     // Second row
     key <CAPS> { [ Escape ],                         /////////////////
-    actions = [ NoAction(), LockMods(modifiers=Lock) ] };
+    actions = [ NoAction(), LockMods(modifiers=Lock), NoAction() ] };
     key <AC01> { [ _, _, ampersand, 4 ] };
     key <AC02> { [ _, _, dollar, 5 ] };
     key <AC03> { [ _, _, _, 6 ] };
