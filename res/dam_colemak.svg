@@ -89,7 +89,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0989203"
-     inkscape:cx="402.82615"
+     inkscape:cx="402.82616"
      inkscape:cy="193.19457"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3408,6 +3408,37 @@
              id="tspan2166"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#ff0000;stroke-width:0.72239">b</tspan></text>
       </g>
+    </g>
+    <g
+       id="g1530"
+       transform="translate(6.7081229,-2.5814151)">
+      <text
+         style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
+         x="400"
+         y="192"
+         class="fil9 fnt0"
+         id="text10728-5"
+         transform="matrix(0.774557,0,0,0.67373657,112.35234,741.75606)"><tspan
+           id="tspan10726-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">→</tspan></text>
+      <text
+         transform="scale(1.0722144,0.9326493)"
+         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+         x="393.29199"
+         y="948.64368"
+         class="fil9 fnt0"
+         id="text10734-5"><tspan
+           id="tspan10732-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">☰</tspan></text>
+      <text
+         transform="scale(1.0722144,0.9326493)"
+         id="text10738-2"
+         class="fil9 fnt0"
+         y="949.39825"
+         x="405.48581"
+         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239"
+           id="tspan10736-9">←</tspan></text>
     </g>
   </g>
 </svg>
