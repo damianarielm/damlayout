@@ -1,6 +1,3 @@
-default partial alphanumeric_keys
-
-xkb_symbols "basic" {
     key <NMLK> { [ j, J, k, K ] };
     key <KPDV> { [ v, V, w, W ] };
     key <KPMU> { [ x, X, z, Z ] };
@@ -26,4 +23,3 @@ xkb_symbols "basic" {
     key <PGUP> { [ Right ] };
     key <PGDN> { [ Shift_L ] };
     key <RGHT> { [ ISO_Level3_Shift ] };
-};

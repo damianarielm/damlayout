@@ -1,6 +1,3 @@
-default partial alphanumeric_keys
-
-xkb_symbols "basic" {
     // Layout switch
     key <SCLK> { [], [ 2 ] }; // Identifier
 
@@ -18,4 +15,3 @@ xkb_symbols "basic" {
     key <AB05> { [], [ BackSpace, dead_grave ] };
     key <AB06> { [], [ Return, dead_acute ] };
     key <AB08> { [], [ b, B ] };
-};

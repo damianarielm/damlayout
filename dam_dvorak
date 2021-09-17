@@ -1,6 +1,3 @@
-default partial alphanumeric_keys
-
-xkb_symbols "basic" {
     // Layout switch
     key <SCLK> { [], [], [], [ 4 ] }; // Identifier
 
@@ -30,4 +27,3 @@ xkb_symbols "basic" {
 
     key <CAPS> { [], [], [], [ Escape, none ],
     actions[Group4] = [ NoAction(), LockGroup(group=1) ] };
-};

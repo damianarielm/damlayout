@@ -1,6 +1,3 @@
-default partial alphanumeric_keys
-
-xkb_symbols "basic" {
     // Layout switch
     key <SCLK> { [], [], [ 3 ] }; // Identifier
 
@@ -43,4 +40,3 @@ xkb_symbols "basic" {
     key <AB07> { [], [], [ U03BC, _, U21A6 ] };            // mu,      ?,          mapsto
     key <AB09> { [], [], [ dead_abovedot, _, U2190 ] };    // dot,     ?,          leftarrow
     key <AB10> { [], [], [ dead_macron, dead_cedilla, U2192 ] };// bar,_,          rightarrow
-};

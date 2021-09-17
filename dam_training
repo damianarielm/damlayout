@@ -1,6 +1,3 @@
-default partial alphanumeric_keys modifier_keys
-
-xkb_symbols "basic" {
     // Disable arrows
     key <UP>    { [ none, none, none, none ] };
     key <DOWN>  { [ none, none, none, none ] };
@@ -39,4 +36,3 @@ xkb_symbols "basic" {
     key <AE10>  { [ none, none, none, none ] };
     key <AE11>  { [ none, none, none, none ] };
     key <AE12>  { [ none, none, none, none ] };
-};
