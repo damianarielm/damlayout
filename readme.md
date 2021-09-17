@@ -26,6 +26,10 @@ setxkbmap dam
 
 ![base](res/dam_base.svg)
 
+### One Hand ###
+
+![colemak](res/dam_one_hand.svg)
+
 ### Colemak ###
 
 ![colemak](res/dam_colemak.svg)
