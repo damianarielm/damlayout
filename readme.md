@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## Manual de uso ##
 
 ### Instalacion ###
