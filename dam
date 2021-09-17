@@ -1,0 +1,42 @@
+default partial alphanumeric_keys modifier_keys
+
+xkb_symbols "basic" {
+    include "es"
+    // include "dam_one_hand"
+    // include "dam_colemak"
+    // include "dam_math"
+    // include "dam_dvorak"
+    // include "dam_training"
+    // include "dam_vim"
+
+    // Layout switch
+    key <MENU>  { [ _, ISO_Next_Group, ISO_Prev_Group ] };
+    key <SCLK>  { [ 1 ] }; // Identifier
+
+    // First row
+    key <AD01> { [ _, _, _, 7  ] };
+    key <AD02> { [ _, _, _, 8 ] };
+    key <AD03> { [ _, _, equal, 9 ] };
+    key <AD08> { [ _, _, question, questiondown ] };
+    key <AD09> { [ _, _, bar, _ ] };
+    key <AD11> { [ slash, asciicircum, _, grave ] }; /////////////////
+
+    // Second row
+    key <CAPS> { [ Escape ],                         /////////////////
+    actions = [ NoAction(), LockMods(modifiers=Lock) ] };
+    key <AC01> { [ _, _, ampersand, 4 ] };
+    key <AC02> { [ _, _, dollar, 5 ] };
+    key <AC03> { [ _, _, _, 6 ] };
+    key <AC11> { [ _, backslash, braceleft, dead_diaeresis ] }; //////
+    key <AC12> { [ apostrophe, quotedbl, braceright, _ ] }; //////////
+
+    // Third row
+    key <LSGT> { [ _, _, _, 0 ] };
+    key <AB01> { [ _, _, _, 1 ] };
+    key <AB02> { [ _, _, _, 2 ] };
+    key <AB03> { [ _, _, numbersign, 3 ] };
+    key <AB06> { [ _, _, exclam, exclamdown ] };
+    key <AB07> { [ _, _, percent, _ ] };
+    key <AB09> { [ _, _, parenleft, _ ] };
+    key <AB10> { [ _, _, parenright, _ ] };
+};

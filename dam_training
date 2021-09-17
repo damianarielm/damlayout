@@ -1,0 +1,42 @@
+default partial alphanumeric_keys modifier_keys
+
+xkb_symbols "basic" {
+    // Disable arrows
+    key <UP>    { [ none, none, none, none ] };
+    key <DOWN>  { [ none, none, none, none ] };
+    key <LEFT>  { [ none, none, none, none ] };
+    key <RGHT>  { [ none, none, none, none ] };
+
+    // Disable Numeric Keypad
+    key <KP0>   { [ none, none, none, none ] };
+    key <KP1>   { [ none, none, none, none ] };
+    key <KP2>   { [ none, none, none, none ] };
+    key <KP3>   { [ none, none, none, none ] };
+    key <KP4>   { [ none, none, none, none ] };
+    key <KP5>   { [ none, none, none, none ] };
+    key <KP6>   { [ none, none, none, none ] };
+    key <KP7>   { [ none, none, none, none ] };
+    key <KP8>   { [ none, none, none, none ] };
+    key <KP9>   { [ none, none, none, none ] };
+
+    // Disable Special Keys
+    key <ESC>   { [ none, none, none, none ] };
+    key <BKSP>  { [ none, none, none, none ] };
+    key <RTRN>  { [ none, none, none, none ] };
+    key <DELE>  { [ none, none, none, none ] };
+
+    // Disable Numeric Keys
+    key <TLDE>  { [ none, none, none, none ] };
+    key <AE01>  { [ none, none, none, none ] };
+    key <AE02>  { [ none, none, none, none ] };
+    key <AE03>  { [ none, none, none, none ] };
+    key <AE04>  { [ none, none, none, none ] };
+    key <AE05>  { [ none, none, none, none ] };
+    key <AE06>  { [ none, none, none, none ] };
+    key <AE07>  { [ none, none, none, none ] };
+    key <AE08>  { [ none, none, none, none ] };
+    key <AE09>  { [ none, none, none, none ] };
+    key <AE10>  { [ none, none, none, none ] };
+    key <AE11>  { [ none, none, none, none ] };
+    key <AE12>  { [ none, none, none, none ] };
+};

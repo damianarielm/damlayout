@@ -1,0 +1,29 @@
+default  partial alphanumeric_keys
+
+xkb_symbols "basic" {
+    key <NMLK> { [ j, J, k, K ] };
+    key <KPDV> { [ v, V, w, W ] };
+    key <KPMU> { [ x, X, z, Z ] };
+    key <KPSU> { [ BackSpace, none, Tab ] };
+
+    key <KP7>  { [ s, S, u, U ] };
+    key <KP8>  { [ t, T, h, H ] };
+    key <KP9>  { [ c, C, p, P ] };
+
+    key <KP4>  { [ e, E, n, N ] };
+    key <KP5>  { [ a, A, l, L ] };
+    key <KP6>  { [ o, O, f, F ] };
+
+    key <KP1>  { [ i, I, g, G ] };
+    key <KP2>  { [ r, R, m, M ] };
+    key <KP3>  { [ d, D, b, B ] };
+
+    key <KP0>  { [ space ] };
+    key <KPDL> { [ period, colon, comma, semicolon ] };
+    key <KPAD> { [ y, Y, q, Q ] };
+
+    key <PAUS> { [ Escape ] };
+    key <PGUP> { [ Right ] };
+    key <PGDN> { [ Shift_L ] };
+    key <RGHT> { [ ISO_Level3_Shift ] };
+};

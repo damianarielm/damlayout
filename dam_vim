@@ -1,0 +1,33 @@
+default partial alphanumeric_keys modifier_keys
+
+xkb_symbols "basic" {
+    include "level5(modifier_mapping)"
+    key.type[Group1] = "EIGHT_LEVEL";
+
+    // Layout switch
+    key <SCLK>  { [ _, _, _, _, v ] }; // Identifier
+
+    // First row
+    key <AD02> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<RGHT>, modifiers=Control) ] };
+    key <AD04> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<INS>, clearMods=Shift) ] };
+    key <AD07> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<AB01>, modifiers=Control) ] };
+    key <AD08> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), LockMods(modifiers=Mod3) ]};
+    key <AD09> { [ _, _, _, _, End, _, Home ] };
+    key <AD11> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<AC04>, modifiers=Control) ] };
+
+    // Second row
+    key <CAPS> { actions = [ NoAction(), NoAction(), LockMods(modifiers=Mod3), NoAction(), NoAction(), NoAction(), LockMods(modifiers=Mod3) ]};
+    key <AC01> { [ _, _, _, _, Right, End ], actions = [ NoAction(), NoAction(), NoAction(), NoAction(), LockMods(modifiers=Mod3), LockMods(modifiers=Mod3, clearMods=Shift, modifiers=Mod3, clearMods=Shift) ] };
+    key <AC02> { [ _, _, _, _, _, _, End ] };
+    key <AC03> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<DELE>, modifiers=Control) ] };
+    key <AC05> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<HOME>, modifiers=Control), Redirect(Key=<END>, modifiers=Control, clearMods=Shift) ] };
+    key <AC06> { [ _, _, _, _, Left ] };
+    key <AC07> { [ _, _, _, _, Down ] };
+    key <AC08> { [ _, _, _, _, Up ] };
+    key <AC09> { [ _, _, _, _, Right ] };
+
+    // Third row
+    key <AB02> { [ _, _, _, _, Delete, BackSpace ] };
+    key <AB05> { actions = [ NoAction(), NoAction(), NoAction(), NoAction(), Redirect(Key=<LEFT>, modifiers=Control) ] };
+    key <AB06> { [ _, _, _, _, F3, F3 ] };
+};
