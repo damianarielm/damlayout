@@ -2,28 +2,28 @@
     key <SCLK> { [], [], [], [ 4 ] }; // Identifier
 
     // First row
-    key <AD03>  { [], [], [], [ m, M, _ ] };
+    key <AD03>  { [], [], [], [ m, M, _, 9 ] };
     key <AD04>  { [], [], [], [ h, H, _ ] };
     key <AD07>  { [], [], [], [ l, L, _ ] };
     key <AD08>  { [], [], [], [ c, C, _ ] };
 
     // Second row
-    key <AC01>  { [], [], [], [ i, i, _ ] };
-    key <AC02>  { [], [], [], [ o, O, _ ] };
-    key <AC03>  { [], [], [], [ a, A, _, _ ] };
-    key <AC04>  { [], [], [], [ e, E, _, _ ] };
+    key <AC01>  { [], [], [], [ i, i, question, 4 ] };
+    key <AC02>  { [], [], [], [ o, O, bar, 5 ] };
+    key <AC03>  { [], [], [], [ a, A, ampersand, 6 ] };
+    key <AC04>  { [], [], [], [ e, E, equal, _ ] };
     key <AC05>  { [], [], [], [ u, U, _, _ ] };
     key <AC06>  { [], [], [], [ d, D, _, _ ] };
     key <AC07>  { [], [], [], [ t, T, _, _ ] };
-    key <AC08>  { [], [], [], [ s, S, _, _ ] };
-    key <AC09>  { [], [], [], [ n, N, _, _ ] };
+    key <AC08>  { [], [], [], [ s, S, dollar, _ ] };
+    key <AC09>  { [], [], [], [ n, N, exclam, exclamdown ] };
     key <AC10>  { [], [], [], [ r, R, _, _ ] };
 
     // Third row
-    key <LSGT>  { [], [], [], [ z, Z, _ ] };
+    key <LSGT>  { [], [], [], [ z, Z, _, 0 ] };
     key <AB05>  { [], [], [], [ BackSpace, _, _ ] };
     key <AB06>  { [], [], [], [ Return, _, _ ] };
-    key <AB10>  { [], [], [], [ x, X, _ ] };
+    key <AB10>  { [], [], [], [ x, X, _, parenright ] };
 
     key <CAPS> { [], [], [], [ Escape, none ],
     actions[Group4] = [ NoAction(), LockGroup(group=1) ] };
