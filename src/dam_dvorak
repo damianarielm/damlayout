@@ -24,6 +24,3 @@
     key <AB05>  { [], [], [], [ BackSpace, _, _ ] };
     key <AB06>  { [], [], [], [ Return, _, _ ] };
     key <AB10>  { [], [], [], [ x, X, _, parenright ] };
-
-    key <CAPS> { [], [], [], [ Escape, none ],
-    actions[Group4] = [ NoAction(), LockGroup(group=1) ] };

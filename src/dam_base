@@ -1,14 +1,16 @@
     include "es"
-    // include "dam_one_hand"
-    // include "dam_colemak"
-    // include "dam_math"
-    // include "dam_dvorak"
-    // include "dam_training"
-    // include "dam_vim"
 
     // Layout switch
     key <MENU>  { [ _, ISO_Next_Group, ISO_Prev_Group ] };
     key <SCLK>  { [ 1 ] }; // Identifier
+    key <FK01>  { [ _, _, _, none ],
+    actions = [ NoAction(), NoAction(), NoAction(), LockGroup(group=1) ] };
+    key <FK02>  { [ _, _, _, none ],
+    actions = [ NoAction(), NoAction(), NoAction(), LockGroup(group=2) ] };
+    key <FK03>  { [ _, _, _, none ],
+    actions = [ NoAction(), NoAction(), NoAction(), LockGroup(group=3) ] };
+    key <FK04>  { [ _, _, _, none ],
+    actions = [ NoAction(), NoAction(), NoAction(), LockGroup(group=4) ] };
 
     // First row
     key <AD01> { [ _, _, _, 7  ] };
