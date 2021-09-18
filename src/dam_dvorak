@@ -2,10 +2,13 @@
     key <SCLK> { [], [], [], [ 4 ] }; // Identifier
 
     // First row
-    key <AD03>  { [], [], [], [ m, M, _, 9 ] };
+    key <AD03>  { [], [], [], [ m, M, percent, 9 ] };
     key <AD04>  { [], [], [], [ h, H, _ ] };
-    key <AD07>  { [], [], [], [ l, L, _ ] };
-    key <AD08>  { [], [], [], [ c, C, _ ] };
+    key <AD05>  { [], [], [], [ g, G, _ ] };
+    key <AD07>  { [], [], [], [ d, D, _ ] };
+    key <AD08>  { [], [], [], [ c, C, numbersign ] };
+    key <AD09>  { [], [], [], [ b, B, _ ] };
+    key <AD10>  { [], [], [], [ ntilde, Ntilde, _ ] };
 
     // Second row
     key <AC01>  { [], [], [], [ i, i, question, 4 ] };
@@ -13,7 +16,7 @@
     key <AC03>  { [], [], [], [ a, A, ampersand, 6 ] };
     key <AC04>  { [], [], [], [ e, E, equal, _ ] };
     key <AC05>  { [], [], [], [ u, U, _, _ ] };
-    key <AC06>  { [], [], [], [ d, D, _, _ ] };
+    key <AC06>  { [], [], [], [ l, L, _, _ ] };
     key <AC07>  { [], [], [], [ t, T, _, _ ] };
     key <AC08>  { [], [], [], [ s, S, dollar, _ ] };
     key <AC09>  { [], [], [], [ n, N, exclam, exclamdown ] };
@@ -21,6 +24,11 @@
 
     // Third row
     key <LSGT>  { [], [], [], [ z, Z, _, 0 ] };
+    key <AB01>  { [], [], [], [ k, K, _, 1 ] };
+    key <AB02>  { [], [], [], [ j, J, _, 2 ] };
+    key <AB03>  { [], [], [], [ v, V, _, 3 ] };
+    key <AB04>  { [], [], [], [ f, F, _, _ ] };
     key <AB05>  { [], [], [], [ BackSpace, _, _ ] };
     key <AB06>  { [], [], [], [ Return, _, _ ] };
+    key <AB07>  { [], [], [], [ p, P, _, _ ] };
     key <AB10>  { [], [], [], [ x, X, _, parenright ] };

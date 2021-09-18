@@ -33,3 +33,7 @@ setxkbmap dam
 ### Colemak ###
 
 ![colemak](res/dam_colemak.svg)
+
+### Dvorak ###
+
+![colemak](res/dam_dvorak.svg)
