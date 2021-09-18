@@ -88,9 +88,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1195894"
-     inkscape:cx="404.0877"
-     inkscape:cy="193.1978"
+     inkscape:zoom="8.4783576"
+     inkscape:cx="198.91824"
+     inkscape:cy="89.227187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4004,5 +4004,49 @@
          class="fil9 fnt1"
          id="text869-9">Alt Gr</text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="126.81089"
+       y="727.76324"
+       id="text1364-3-7-9"><tspan
+         sodipodi:role="line"
+         x="126.81089"
+         y="727.76324"
+         id="tspan1362-6-5-1"
+         style="font-size:6px;line-height:1.25;fill:#008000">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="156.67595"
+       y="727.10736"
+       id="text1364-3-7-9-3"><tspan
+         sodipodi:role="line"
+         x="156.67595"
+         y="727.10736"
+         id="tspan1362-6-5-1-6"
+         style="font-size:6px;line-height:1.25;fill:#008000">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="186.52007"
+       y="727.10724"
+       id="text1364-3-7-9-0"><tspan
+         sodipodi:role="line"
+         x="186.52007"
+         y="727.10724"
+         id="tspan1362-6-5-1-62"
+         style="font-size:6px;line-height:1.25;fill:#008000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="216.00485"
+       y="727.34247"
+       id="text1364-3-7-9-6"><tspan
+         sodipodi:role="line"
+         x="216.00485"
+         y="727.34247"
+         id="tspan1362-6-5-1-1"
+         style="font-size:6px;line-height:1.25;fill:#008000">4</tspan></text>
   </g>
 </svg>

@@ -88,9 +88,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0989203"
-     inkscape:cx="402.82616"
-     inkscape:cy="193.19457"
+     inkscape:zoom="2.9683216"
+     inkscape:cx="182.76322"
+     inkscape:cy="137.28297"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3440,5 +3440,49 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239"
            id="tspan10736-9">←</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="132.84264"
+       y="723.91266"
+       id="text1364-3"><tspan
+         sodipodi:role="line"
+         x="132.84264"
+         y="723.91266"
+         id="tspan1362-6"
+         style="font-size:6px;line-height:1.25;fill:#008000">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="162.77884"
+       y="723.87262"
+       id="text1364-3-7"><tspan
+         sodipodi:role="line"
+         x="162.77884"
+         y="723.87262"
+         id="tspan1362-6-5"
+         style="font-size:6px;line-height:1.25;fill:#008000">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="193.3147"
+       y="723.57532"
+       id="text1364-3-7-3"><tspan
+         sodipodi:role="line"
+         x="193.3147"
+         y="723.57532"
+         id="tspan1362-6-5-5"
+         style="font-size:6px;line-height:1.25;fill:#008000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="222.45537"
+       y="723.8288"
+       id="text1364-3-7-6"><tspan
+         sodipodi:role="line"
+         x="222.45537"
+         y="723.8288"
+         id="tspan1362-6-5-2"
+         style="font-size:6px;line-height:1.25;fill:#008000">4</tspan></text>
   </g>
 </svg>

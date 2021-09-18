@@ -88,9 +88,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.996731"
-     inkscape:cx="433.21912"
-     inkscape:cy="209.45128"
+     inkscape:zoom="13.498366"
+     inkscape:cx="159.46375"
+     inkscape:cy="75.157248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3472,5 +3472,49 @@
     <g
        id="g1890"
        transform="translate(-270.04993,127.65988)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="157.00391"
+       y="727.2998"
+       id="text1364-3-7"><tspan
+         sodipodi:role="line"
+         x="157.00391"
+         y="727.2998"
+         id="tspan1362-6-5"
+         style="font-size:6px;line-height:1.25;fill:#008000">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="126.70528"
+       y="727.37354"
+       id="text1364-3-7-9"><tspan
+         sodipodi:role="line"
+         x="126.70528"
+         y="727.37354"
+         id="tspan1362-6-5-1"
+         style="font-size:6px;line-height:1.25;fill:#008000">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="186.87518"
+       y="727.25977"
+       id="text1364-3-7-9-2"><tspan
+         sodipodi:role="line"
+         x="186.87518"
+         y="727.25977"
+         id="tspan1362-6-5-1-7"
+         style="font-size:6px;line-height:1.25;fill:#008000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008000;fill-opacity:1;stroke:none"
+       x="215.69283"
+       y="727.25958"
+       id="text1364-3-7-9-0"><tspan
+         sodipodi:role="line"
+         x="215.69283"
+         y="727.25958"
+         id="tspan1362-6-5-1-9"
+         style="font-size:6px;line-height:1.25;fill:#008000">4</tspan></text>
   </g>
 </svg>
