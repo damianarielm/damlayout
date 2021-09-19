@@ -88,9 +88,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3745915"
-     inkscape:cx="261.51313"
-     inkscape:cy="147.72158"
+     inkscape:zoom="3.82282"
+     inkscape:cx="269.04223"
+     inkscape:cy="156.29823"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -119,7 +119,7 @@
      transform="translate(0,-667.36194)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#f5f6f7;stroke:#202326;stroke-width:0"
+       style="fill:#e6e6e6;stroke:#202326;stroke-width:0"
        class="fil0 str0"
        d="M 30.419142,684.49674 H 759.41914 c 13,0 23,9 23,22 v 192 c 0,12 -10,23 -23,23 H 30.419142 c -14,0 -25.0000004,-11 -25.0000004,-23 v -192 c 0,-13 11.0000004,-22 25.0000004,-22 z"
        id="path9" />
@@ -2133,14 +2133,15 @@
          id="g1211">
         <g
            id="g1195"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)">
+           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
+           style="fill:#008000">
           <text
              id="text1193"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan1191">ℚ</tspan></text>
         </g>
         <text
@@ -2165,14 +2166,15 @@
          id="g1259">
         <g
            id="g1243"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)">
+           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
+           style="fill:#008000">
           <text
              id="text1241"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan1239">ε</tspan></text>
         </g>
         <text
@@ -2180,9 +2182,9 @@
            class="fil9 fnt0"
            y="329.20395"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan1245">ϵ</tspan></text>
         <text
            style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
@@ -2221,8 +2223,8 @@
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan1263">ℝ</tspan></text>
         </g>
         <text
@@ -2230,9 +2232,9 @@
            class="fil9 fnt0"
            y="329.20395"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan1269">ρ</tspan></text>
       </g>
     </g>
@@ -2240,33 +2242,35 @@
        id="g1323"
        transform="translate(-357.98757,500.87124)">
       <g
-         id="g1321">
+         id="g1321"
+         transform="translate(-0.18400321,1.108298)">
         <g
            transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
-           id="g1305">
+           id="g1305"
+           style="fill:#008000">
           <text
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
              x="400"
              y="192"
              class="fil9 fnt0"
              id="text1303"><tspan
                id="tspan1301"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">Θ</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">Θ</tspan></text>
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="536.43024"
            y="329.20395"
            class="fil9 fnt0"
            id="text1309"><tspan
              id="tspan1307"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">θ</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">θ</tspan></text>
       </g>
     </g>
     <g
        id="g1323-7"
-       transform="translate(-347.82729,501.1425)">
+       transform="translate(-347.64329,502.06608)">
       <g
          id="g1321-5">
         <g
@@ -2285,7 +2289,7 @@
     </g>
     <g
        id="g1371"
-       transform="translate(-297.55851,501.28703)">
+       transform="translate(-298.60842,501.54861)">
       <g
          id="g1369">
         <text
@@ -2309,14 +2313,15 @@
          id="g1431">
         <g
            id="g1415"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)">
+           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
+           style="fill:#008000">
           <text
              id="text1413"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan1411">Ω</tspan></text>
         </g>
         <text
@@ -2324,47 +2329,48 @@
            class="fil9 fnt0"
            y="329.20395"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan1417">ω</tspan></text>
         <text
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="545.75677"
            y="329.20395"
            class="fil9 fnt0"
            id="text1423"
            transform="scale(1.0722144,0.9326493)"><tspan
              id="tspan1421"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239">∨</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239">∨</tspan></text>
       </g>
     </g>
     <g
        id="g1457"
-       transform="translate(-208.85837,500.73264)">
+       transform="translate(-209.37878,501.51633)">
       <g
          id="g1455">
         <g
            transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
-           id="g1439">
+           id="g1439"
+           style="fill:#008000">
           <text
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
              x="400"
              y="192"
              class="fil9 fnt0"
              id="text1437"><tspan
                id="tspan1435"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">Π</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">Π</tspan></text>
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="536.43024"
            y="330.32727"
            class="fil9 fnt0"
            id="text1443"><tspan
              id="tspan1441"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">π</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">π</tspan></text>
         <text
            transform="scale(1.0722144,0.9326493)"
            style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
@@ -2395,21 +2401,21 @@
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="536.43024"
            y="329.20395"
            class="fil9 fnt0"
            id="text9126"><tspan
              id="tspan9124"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">α</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">α</tspan></text>
         <text
            transform="scale(1.0722144,0.9326493)"
            id="text9130"
            class="fil9 fnt0"
            y="329.20395"
            x="545.75677"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239"
              id="tspan9128">∧</tspan></text>
         <g
            id="g9136"
@@ -2433,14 +2439,15 @@
          id="g9162">
         <g
            id="g9146"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,168.68818)">
+           transform="matrix(0.774557,0,0,0.67373657,265.34544,168.68818)"
+           style="fill:#008000">
           <text
              id="text9144"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan9142">Σ</tspan></text>
         </g>
         <text
@@ -2448,9 +2455,9 @@
            class="fil9 fnt0"
            y="329.65326"
            x="536.2356"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan9148">σ</tspan></text>
         <text
            style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
@@ -2470,24 +2477,25 @@
          id="g9186">
         <g
            id="g9170"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)">
+           transform="matrix(0.774557,0,0,0.67373657,265.60601,167.74461)"
+           style="fill:#008000">
           <text
              id="text9168"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan9166">Δ</tspan></text>
         </g>
         <text
            id="text9174"
            class="fil9 fnt0"
-           y="329.20395"
-           x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           y="330.32581"
+           x="536.18719"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239"
              id="tspan9172">δ</tspan></text>
         <g
            style="fill:#008000"
@@ -2575,19 +2583,22 @@
     </g>
     <g
        transform="translate(-351.65075,526.73264)"
-       id="g9240">
+       id="g9240"
+       style="fill:#008000">
       <g
-         id="g9238">
+         id="g9238"
+         style="fill:#008000">
         <g
            id="g9232"
-           transform="matrix(0.774557,0,0,0.67373657,265.13672,167.85006)">
+           transform="matrix(0.774557,0,0,0.67373657,265.13672,167.85006)"
+           style="fill:#008000">
           <text
              id="text9230"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan9228">Γ</tspan></text>
         </g>
         <text
@@ -2595,9 +2606,9 @@
            class="fil9 fnt0"
            y="327.40668"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan9234">γ</tspan></text>
       </g>
     </g>
@@ -2608,14 +2619,15 @@
          id="g9262">
         <g
            id="g9246"
-           transform="matrix(0.774557,0,0,0.67373657,265.49303,166.48068)">
+           transform="matrix(0.774557,0,0,0.67373657,265.49303,166.48068)"
+           style="fill:#008000">
           <text
              id="text9244"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan9242">ℤ</tspan></text>
         </g>
         <text
@@ -2623,9 +2635,9 @@
            class="fil9 fnt0"
            y="328.25079"
            x="536.01727"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan9248">ζ</tspan></text>
       </g>
     </g>
@@ -2685,26 +2697,27 @@
       <g
          id="g9302">
         <g
-           transform="matrix(0.774557,0,0,0.67373657,265.19785,166.92515)"
-           id="g9290">
+           transform="matrix(0.774557,0,0,0.67373657,265.28985,166.64807)"
+           id="g9290"
+           style="fill:#008000">
           <text
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
              x="400"
              y="191.56018"
              class="fil9 fnt0"
              id="text9288"><tspan
                id="tspan9286"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">Ξ</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">Ξ</tspan></text>
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="536.15497"
            y="327.93307"
            class="fil9 fnt0"
            id="text9294"><tspan
              id="tspan9292"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">ξ</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">ξ</tspan></text>
       </g>
     </g>
     <g
@@ -2712,13 +2725,13 @@
        transform="translate(-277.47746,552.34798)">
       <text
          transform="scale(1.0722144,0.9326493)"
-         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
          x="534.08215"
          y="326.97995"
          class="fil9 fnt0"
          id="text9382"><tspan
            id="tspan9380"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">μ</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">μ</tspan></text>
       <text
          transform="scale(1.0722144,0.9326493)"
          id="text9386"
@@ -2821,30 +2834,13 @@
     </g>
     <g
        id="g10628"
-       transform="translate(-397.48308,552.56861)">
+       transform="translate(-398.52532,552.83018)">
       <g
          id="g10626">
         <g
            transform="matrix(0.774557,0,0,0.67373657,265.19785,167.0733)"
-           id="g10610">
-          <text
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"
-             x="400"
-             y="192"
-             class="fil9 fnt0"
-             id="text10608"><tspan
-               id="tspan10606"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">ℂ</tspan></text>
-        </g>
-        <text
-           transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
-           x="536.01727"
-           y="327.45651"
-           class="fil9 fnt0"
-           id="text10614"><tspan
-             id="tspan10612"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">χ</tspan></text>
+           id="g10610"
+           style="fill:#008000" />
       </g>
     </g>
     <g
@@ -2885,7 +2881,7 @@
     </g>
     <g
        id="g10656"
-       transform="translate(-319.65075,526.73264)">
+       transform="translate(-320.20816,526.73264)">
       <g
          id="g10654">
         <g
@@ -2930,13 +2926,13 @@
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            x="536.43024"
            y="329.20395"
            class="fil9 fnt0"
            id="text10680"><tspan
              id="tspan10678"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239">β</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000">β</tspan></text>
         <g
            transform="matrix(0.774557,0,0,0.67373657,265.94011,157.44296)"
            id="g184286">
@@ -2958,14 +2954,15 @@
          id="g10710">
         <g
            id="g10704"
-           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)">
+           transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
+           style="fill:#008000">
           <text
              id="text10702"
              class="fil9 fnt0"
              y="192"
              x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000"
                id="tspan10700">Λ</tspan></text>
         </g>
         <text
@@ -2973,9 +2970,9 @@
            class="fil9 fnt0"
            y="329.20395"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan10706">λ</tspan></text>
       </g>
       <g
@@ -3037,52 +3034,45 @@
       </g>
     </g>
     <g
-       transform="translate(-140.73722,526.76109)"
-       id="g10842">
-      <g
-         id="g10840">
-        <g
-           style="fill:#ffff00"
-           id="g10824"
-           transform="matrix(0.774557,0,0,0.67373657,262.45668,168.11043)">
-          <text
-             id="text10822"
-             class="fil9 fnt0"
-             y="192"
-             x="400"
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#000000"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000"
-               id="tspan10820">∉</tspan></text>
-        </g>
-        <text
-           id="text10828"
-           class="fil9 fnt0"
-           y="330.47354"
-           x="533.70752"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
-           transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239"
-             id="tspan10826">∩</tspan></text>
-        <text
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
-           x="542.99176"
-           y="330.39539"
-           class="fil9 fnt0"
-           id="text10832"
-           transform="scale(1.0722144,0.9326493)"><tspan
-             id="tspan10830"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239">𝒫</tspan></text>
-        <text
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
-           x="541.70117"
-           y="318.27454"
-           class="fil9 fnt0"
-           id="text10832-0"
-           transform="scale(1.0722144,0.9326493)"><tspan
-             id="tspan10830-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239">𝒰</tspan></text>
-      </g>
+       style="fill:#ffff00"
+       id="g10824"
+       transform="matrix(0.774557,0,0,0.67373657,121.71946,694.87152)">
+      <text
+         id="text10822"
+         class="fil9 fnt0"
+         y="192"
+         x="400"
+         style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#000000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000"
+           id="tspan10820">∉</tspan></text>
     </g>
+    <text
+       id="text10828"
+       class="fil9 fnt0"
+       y="895.27435"
+       x="402.44907"
+       style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
+       transform="scale(1.0722144,0.9326493)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000;stroke-width:0.72239"
+         id="tspan10826">∩</tspan></text>
+    <text
+       style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
+       x="349.27917"
+       y="855.64624"
+       class="fil9 fnt0"
+       id="text10832"
+       transform="scale(1.0722144,0.9326493)"><tspan
+         id="tspan10830"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239">𝒫</tspan></text>
+    <text
+       style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
+       x="264.31375"
+       y="855.30939"
+       class="fil9 fnt0"
+       id="text10832-0"
+       transform="scale(1.0722144,0.9326493)"><tspan
+         id="tspan10830-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239">𝒰</tspan></text>
     <g
        transform="translate(-148.38775,501.94784)"
        id="g10866">
@@ -3122,15 +3112,16 @@
          id="g10888">
         <g
            transform="matrix(0.774557,0,0,0.67373657,265.34544,167.22147)"
-           id="g10872">
+           id="g10872"
+           style="fill:#008000">
           <text
-             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#2b2828"
+             style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
              x="400"
              y="192"
              class="fil9 fnt0"
              id="text10870"><tspan
                id="tspan10868"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">ℕ</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">ℕ</tspan></text>
         </g>
         <text
            transform="scale(1.0722144,0.9326493)"
@@ -3187,9 +3178,9 @@
            class="fil9 fnt0"
            y="329.20395"
            x="536.43024"
-           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#2b2828;stroke-width:0.72239"
+           style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
            transform="scale(1.0722144,0.9326493)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.72239;fill:#008000"
              id="tspan10898">ι</tspan></text>
         <text
            style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#000000;stroke-width:0.72239"
@@ -3275,5 +3266,36 @@
          y="727.25958"
          id="tspan1362-6-5-1-9"
          style="font-size:6px;line-height:1.25;fill:#008000">4</tspan></text>
+    <g
+       id="g215978"
+       transform="translate(-0.26056517,-0.52314206)">
+      <text
+         style="font-weight:normal;font-size:18px;line-height:0%;font-family:Arial;fill:#008000"
+         x="400"
+         y="192"
+         class="fil9 fnt0"
+         id="text10608"
+         transform="matrix(0.774557,0,0,0.67373657,-133.32747,719.90348)"><tspan
+           id="tspan10606"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000">ℂ</tspan></text>
+      <text
+         transform="matrix(1.0722144,0,0,0.9326493,-398.52532,552.83018)"
+         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
+         x="536.01727"
+         y="327.45651"
+         class="fil9 fnt0"
+         id="text10614"><tspan
+           id="tspan10612"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239">χ</tspan></text>
+      <text
+         style="font-weight:normal;font-size:13.003px;line-height:0%;font-family:Arial;fill:#008000;stroke-width:0.72239"
+         x="173.07697"
+         y="910.28491"
+         class="fil9 fnt0"
+         id="text214418"
+         transform="scale(1.0722144,0.9326493)"><tspan
+           id="tspan214416"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.72239">𝒞</tspan></text>
+    </g>
   </g>
 </svg>

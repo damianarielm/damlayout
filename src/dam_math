@@ -8,10 +8,10 @@
     key <AD04> { [], [], [ U03C1, U211D ] };               // rho,     mathbb{R}
     key <AD05> { [], [], [ U03B8, U0398, U22A4 ] };        // theta,   Theta,      top
     key <AD06> { [], [], [ y, Y ] };                       // ?,       ?,          ?,       ?
-    key <AD07> { [], [], [ U03C4, _ ] };                   // tau,     ?
+    key <AD07> { [], [], [ U03C4, _, _, U1D4B0 ] };        // tau,     ?,          ?,       mathcal{U}
     key <AD08> { [], [], [ U03B9, U221E, U21D4, U2194 ] }; // iota,    infty       iff,     leftrightarrow
     key <AD09> { [], [], [ U03C9, U03A9, U2228 ] };        // omega,   Omega,      lor
-    key <AD10> { [], [], [ U03C0, U03A0, U2202 ] };        // pi,      Pi,         partial
+    key <AD10> { [], [], [ U03C0, U03A0, U2202, U1D4AB ] };// pi,      Pi,         partial, mathcal{P}
     key <AD11> { [], [], [ division, U221A, U21D0 ] };     // div,     sqrt,       implied, ?
     key <AD12> { [], [], [ _, U00D7, U21D2 ] };            // ?,       times,      implies, ?
 
@@ -27,13 +27,13 @@
     key <AC09> { [], [], [ U03BB, U039B ] };               // lambda,  Lambda
     key <AC10> { [], [], [ _, _ ] };                       // ?,       ?,          ?,       ?
     key <AC11> { [], [], [ U222A, U2208, U2286, U2205 ] }; // cup,     in          subseteq,   emptyset
-    key <AC12> { [], [], [ U2229, U2209, U1D4AB, U1D4B0 ] };// cap,    notin,      mathcal{P}, mathcal{U}
+    key <AC12> { [], [], [ U2229, U2209 ] };               // cap,     notin,      ?,          ?
 
     // Third row
     key <LSGT> { [], [], [ U27E8, U27E9, U2264, U2265 ] }; // langle,  rangle,     leq,     geq
     key <AB01> { [], [], [ U03B6, U2124 ] };               // zeta,    mathbb{Z}
     key <AB02> { [], [], [ U03BE, U039E ] };               // xi,      Xi
-    key <AB03> { [], [], [ U03C7, U2102 ] };               // chi,     mathbb{C}
+    key <AB03> { [], [], [ U03C7, U2102, _, U1D49E ] };    // chi,     mathbb{C},  ?,       mathcal{C}
     key <AB04> { [], [], [ U03C5, _, U22A6, U22A7 ] };     // upsilon, ?,          vdash,   Vdash
     key <AB05> { [], [], [ U03B2, _, U22A5, U25FB ] };     // beta,    ?,          bot,     Box
     key <AB06> { [], [], [ U03BD, U2115, U2260, U2204 ] }; // nu,      mathbb{N},  neq,     nexists
