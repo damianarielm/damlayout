@@ -11,7 +11,7 @@
     key <AD07> { [], [], [ U03C4, _ ] };                   // tau,     ?
     key <AD08> { [], [], [ U03B9, U221E, U21D4, U2194 ] }; // iota,    infty       iff,     leftrightarrow
     key <AD09> { [], [], [ U03C9, U03A9, U2228 ] };        // omega,   Omega,      lor
-    key <AD10> { [], [], [ U03A0, U03C0, U2202 ] };        // pi,      Pi,         partial
+    key <AD10> { [], [], [ U03C0, U03A0, U2202 ] };        // pi,      Pi,         partial
     key <AD11> { [], [], [ division, U221A, U21D0 ] };     // div,     sqrt,       implied, ?
     key <AD12> { [], [], [ _, U00D7, U21D2 ] };            // ?,       times,      implies, ?
 
