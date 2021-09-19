@@ -35,7 +35,7 @@
     key <AB02> { [], [], [ U03BE, U039E ] };               // xi,      Xi
     key <AB03> { [], [], [ U03C7, U2102 ] };               // chi,     mathbb{C}
     key <AB04> { [], [], [ U03C5, _, U22A6, U22A7 ] };     // upsilon, ?,          vdash,   Vdash
-    key <AB05> { [], [], [ U03B2, _, U22A5, U25FB ] };     // beta,    ?,          ?,       Box
+    key <AB05> { [], [], [ U03B2, _, U22A5, U25FB ] };     // beta,    ?,          bot,     Box
     key <AB06> { [], [], [ U03BD, U2115, U2260, U2204 ] }; // nu,      mathbb{N},  neq,     nexists
     key <AB07> { [], [], [ U03BC, _, U21A6 ] };            // mu,      ?,          mapsto
     key <AB09> { [], [], [ dead_abovedot, _, U2190 ] };    // dot,     ?,          leftarrow

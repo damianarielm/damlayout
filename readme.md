@@ -28,7 +28,7 @@ setxkbmap dam
 
 ### One Hand ###
 
-![colemak](res/dam_one_hand.svg)
+![one_hand](res/dam_one_hand.svg)
 
 ### Colemak ###
 
@@ -36,4 +36,8 @@ setxkbmap dam
 
 ### Dvorak ###
 
-![colemak](res/dam_dvorak.svg)
+![dvorak](res/dam_dvorak.svg)
+
+### Unicode ###
+
+![math](res/dam_math.svg)
